@@ -1,0 +1,22 @@
+{
+  "name": "Shuffle Jira quick filters",
+  "description": "shuffle quick filters in Jira",
+  "version": "1.2",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/shuffle.png",
+      "32": "/images/shuffle.png",
+      "48": "/images/shuffle.png",
+      "128": "/images/shuffle.png"
+    }
+  },
+  "icons": {
+    "16": "/images/shuffle.png",
+    "32": "/images/shuffle.png",
+    "48": "/images/shuffle.png",
+    "128": "/images/shuffle.png"
+  }
+}
