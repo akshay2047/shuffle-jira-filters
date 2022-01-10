@@ -1,7 +1,7 @@
 {
-  "name": "Shuffle Jira quick filters",
-  "description": "shuffle quick filters in Jira",
-  "version": "1.2",
+  "name": "Shuffle Jira quick filters and jira swimlanes",
+  "description": "shuffle Jira filters and Jira swimlanes",
+  "version": "1.4",
   "manifest_version": 3,
   "permissions": ["activeTab", "scripting"],
   "action": {
